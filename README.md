@@ -14,6 +14,10 @@ TMDB_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 $ cd server
 $ npm install
 ```
+# Run the server
+```sh
+$ npm start
+```
 ### Feature Demonstration
 - Modularization
 - Closure
